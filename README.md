@@ -5,6 +5,7 @@ A JavaScript implementation of a linked list data structure for The Odin Project
 ## Features
 
 - **Node-based structure** with value and nextNode pointers
+
 - **Full LinkedList class** with all required methods:
   - `append(value)` - Add to end
   - `prepend(value)` - Add to start
@@ -16,7 +17,9 @@ A JavaScript implementation of a linked list data structure for The Odin Project
   - `contains(value)` - Check for value
   - `find(value)` - Get index of value
   - `toString()` - Visualize list
+
 - **Extra credit methods**:
+  
   - `insertAt(value, index)` - Insert at specific index
   - `removeAt(index)` - Remove at specific index
 
