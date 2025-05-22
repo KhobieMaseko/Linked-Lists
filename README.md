@@ -1,4 +1,4 @@
-# Linked List Implementation
+# Linked Lists Implementation
 
 A JavaScript implementation of a linked list data structure for The Odin Project curriculum.
 
