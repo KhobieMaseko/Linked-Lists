@@ -28,4 +28,4 @@ A JavaScript implementation of a linked list data structure for The Odin Project
 1. Clone the repository:
    ```bash
    git clone git@github.com:KhobieMaseko/Linked-Lists.git
-   cd linked-list
+   cd Linked-Lists
